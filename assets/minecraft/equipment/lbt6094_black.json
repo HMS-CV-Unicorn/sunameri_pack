@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:lbt6094_black"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:lbt6094_black_layer2"
+      }
+    ]
+  }
+}

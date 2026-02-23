@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:lbt6094_tan"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:lbt6094_tan_layer2"
+      }
+    ]
+  }
+}

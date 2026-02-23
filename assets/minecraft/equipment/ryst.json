@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:ryst"
+      },
+      {
+        "texture": "minecraft:ryst_face"
+      }
+    ]
+  }
+}

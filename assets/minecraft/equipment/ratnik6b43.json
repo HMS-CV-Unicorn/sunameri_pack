@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:ratnik6b43"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:ratnik6b43_layer2"
+      }
+    ]
+  }
+}

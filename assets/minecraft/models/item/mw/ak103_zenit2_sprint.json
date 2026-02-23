@@ -1,0 +1,17 @@
+{
+	"parent": "item/mw/ak103_zenit2",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				36,
+				42,
+				96
+			],
+			"translation": [
+				-5.562,
+				4.173900000000001,
+				1.3913
+			]
+		}
+	}
+}

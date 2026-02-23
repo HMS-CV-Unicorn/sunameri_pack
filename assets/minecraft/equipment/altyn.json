@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:altyn"
+      },
+      {
+        "texture": "minecraft:altyn_face"
+      }
+    ]
+  }
+}

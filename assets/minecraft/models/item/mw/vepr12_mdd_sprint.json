@@ -1,0 +1,22 @@
+{
+	"parent": "item/mw/vepr12_mdd",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				39,
+				45,
+				96
+			],
+			"translation": [
+				-11.781,
+				0.9500000000000002,
+				3.5
+			],
+			"scale": [
+				1,
+				0.8,
+				1
+			]
+		}
+	}
+}

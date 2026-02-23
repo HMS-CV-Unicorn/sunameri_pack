@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:mopc_multicam"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:mopc_multicam_layer2"
+      }
+    ]
+  }
+}

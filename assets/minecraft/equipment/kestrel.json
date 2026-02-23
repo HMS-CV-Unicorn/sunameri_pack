@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:kestrel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:kestrel_layer2"
+      }
+    ]
+  }
+}

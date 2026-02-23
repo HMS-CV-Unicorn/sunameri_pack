@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/green_dye"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_factory_bar"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_sharp_bar"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_gunner_bar"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_cqb_bar"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_heavy_bar"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_comp"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "item/attachment/muzzles/muzzle_brake"
+        }
+      }
+    ]
+  }
+}
