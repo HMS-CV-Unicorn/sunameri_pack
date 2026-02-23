@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:hexgrid"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:hexgrid_layer2"
+      }
+    ]
+  }
+}

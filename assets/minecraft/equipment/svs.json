@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:svs"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:svs_layer2"
+      }
+    ]
+  }
+}

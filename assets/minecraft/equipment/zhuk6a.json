@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:zhuk6a"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:zhuk6a_layer2"
+      }
+    ]
+  }
+}

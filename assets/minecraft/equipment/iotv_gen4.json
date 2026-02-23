@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:iotv_gen4"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:iotv_gen4_layer2"
+      }
+    ]
+  }
+}

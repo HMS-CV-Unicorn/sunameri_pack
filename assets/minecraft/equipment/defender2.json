@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:defender2"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:defender2_layer2"
+      }
+    ]
+  }
+}

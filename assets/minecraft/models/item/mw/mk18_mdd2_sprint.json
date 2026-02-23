@@ -1,0 +1,10 @@
+{
+    "parent": "item/mw/mk18_mdd2",
+    "display": {
+        "firstperson_righthand": {
+            "rotation":  [ 39, 44, 96 ],
+            "translation":  [ -5.562, 4.8695, 1.3913 ],
+            "scale":  [ 1, 1.1, 1 ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:maska1sch"
+      },
+      {
+        "texture": "minecraft:maska1sch_face"
+      }
+    ]
+  }
+}

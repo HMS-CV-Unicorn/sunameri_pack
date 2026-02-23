@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:jpc"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:jpc_layer2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:desert6b45"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:desert6b45_layer2"
+      }
+    ]
+  }
+}

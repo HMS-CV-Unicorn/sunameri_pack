@@ -1,0 +1,22 @@
+{
+	"parent": "item/mw/ar57_mdd",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				39,
+				44.5,
+				96
+			],
+			"translation": [
+				-10.531,
+				0.4500000000000002,
+				1.75
+			],
+			"scale": [
+				1,
+				0.85,
+				1
+			]
+		}
+	}
+}

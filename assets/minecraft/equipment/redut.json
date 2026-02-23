@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:redut"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:redut_layer2"
+      }
+    ]
+  }
+}

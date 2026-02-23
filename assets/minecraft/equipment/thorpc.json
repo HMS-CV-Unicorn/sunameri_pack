@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:thorpc"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:thorpc_layer2"
+      }
+    ]
+  }
+}

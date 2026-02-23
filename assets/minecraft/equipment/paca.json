@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:paca"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:paca_layer2"
+      }
+    ]
+  }
+}
